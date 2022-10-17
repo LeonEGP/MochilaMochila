@@ -1,11 +1,13 @@
-3
-60
-100
-120
+4
 10
 20
 30
+40
 50
+60
+70
+90
+100
 
-Esperado: 220
-https://www.sanfoundry.com/cpp-program-solve-knapsack-problem-using-dynamic-programming/ 
+Esperado: 40
+https://www.tutorialspoint.com/cplusplus-program-to-solve-knapsack-problem-using-dynamic-programming
