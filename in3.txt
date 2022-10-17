@@ -1,0 +1,15 @@
+5
+11
+22
+33
+44
+55
+111
+121
+131
+141
+151
+300
+
+Esperado: 99
+https://www.sanfoundry.com/cpp-program-solve-knapsack-problem-using-dynamic-programming/ 
