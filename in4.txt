@@ -8,6 +8,3 @@
 70
 90
 100
-
-Esperado: 40
-https://www.tutorialspoint.com/cplusplus-program-to-solve-knapsack-problem-using-dynamic-programming

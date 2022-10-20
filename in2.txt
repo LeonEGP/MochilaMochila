@@ -12,6 +12,3 @@
 7
 4
 7
-
-Esperado: 100
-https://www.tutorialspoint.com/cplusplus-program-to-solve-the-0-1-knapsack-problem 
