@@ -14,7 +14,7 @@ void espacio() { //Complejidad Computacional: O(1), es una ejecución lineal en 
     cout << endl;
 }
 
-//Función que comprueba qué numero es mayor entre dos enteros, recibe dos valores enteros y retorna aquel que sea mayor.
+//Función que comprueba qué número es mayor entre dos enteros, recibe dos valores enteros y retorna aquel que sea mayor.
 int mayor(int x, int y) { //Complejidad Computacional: O(1), es una ejecución lineal en el contenido de la función.
     if (x > y) {
         return x;
@@ -25,7 +25,7 @@ int mayor(int x, int y) { //Complejidad Computacional: O(1), es una ejecución l
 }
 
 //Función que implementa una solución para el Knapsack Problem, recibe el entero de capacidad, un vector de entero con los valores junto a su respectivo vector de pesos, la cantidad entera de elementos en la mochila. 
-int mochila(int capacidad, vector<int> valores, vector<int> pesos, int n) { //Complejidad Computacional: O(2^n);
+int mochila(int capacidad, vector<int> valores, vector<int> pesos, int n) { //Complejidad Computacional: O(2^n), siendo n la cantidad de elementos en la mochila. 
     if (n == 0 || capacidad == 0) {
         return 0;
     }
